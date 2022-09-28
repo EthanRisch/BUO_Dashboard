@@ -90,12 +90,12 @@ out/
 
 # ENV
 
-./.env
+/.env
 
 # KEYS
 
-./src/data/keys.json
+/src/data/keys.json
 
 # Build File
 
-./out
+/out
