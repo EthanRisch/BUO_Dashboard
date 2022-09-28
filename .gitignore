@@ -94,7 +94,7 @@ out/
 
 # KEYS
 
-/src/data
+/src/data/keys.json
 
 # Build File
 
